@@ -1,0 +1,98 @@
+nom de naissance; wdt:P1477 ; https://dbpedia.org/ontology/birthName
+surnom ; wdt:P1449 ; foaf:nick
+pseudonyme; wdt:P742 ; foaf:nick
+nom de pinceau ; wdt:P1787 ;
+nom posthume ; wdt:P1786 ;
+nom dans la langue maternelle; wdt:P1559 ;
+autres noms ; ;
+cheveux ; wdt:P1884 ; https://dbpedia.org/ontology/hairColor
+yeux ; wdt:P1340 ; https://dbpedia.org/ontology/eyeColor
+image ; wdt:P18 ;
+taille image ; ;
+légende ; wdt:P2096 ; https://dbpedia.org/ontology/thumbnailCaption
+alt ; ;
+date de naissance ; wdt:P569 ; https://dbpedia.org/ontology/birthDate
+lieu de naissance ; wdt:P19 ; https://dbpedia.org/ontology/birthPlace
+date de décès ; wdt:P570 ; https://dbpedia.org/ontology/deathDate
+lieu de décès ; wdt:P20 ; https://dbpedia.org/ontology/deathPlace
+sépulture ; wdt:P119 ; https://dbpedia.org/ontology/grave
+période d'activité; wdt:P1317 ;
+époque ; wdt:P2348 ;
+disparition ; wdt:P746 ;
+nationalité ; wdt:P27 | wdt:P569 ; https://dbpedia.org/ontology/nationality
+domicile; wdt:P551 ; https://dbpedia.org/ontology/residence
+lieu de détention ; wdt:P2632 ;
+domaine ; 
+mouvement ; wdt:P135 ; https://dbpedia.org/ontology/movement
+genre artistique; wdt:P136 ; https://dbpedia.org/ontology/genre
+propriétaire de ; wdt:P1830 ;
+formation ; wdt:P69 ; https://dbpedia.org/ontology/education
+maître ; wdt:P1066 ; https://dbpedia.org/ontology/mentor
+intitulé maître ; ;
+élève ; wdt:P802 ; https://dbpedia.org/ontology/disciple
+intitulé élève ; ;
+directeur de thèse; wdt:P184 ; https://dbpedia.org/ontology/influencedBy
+étudiant de thèse ; wdt:P185 ; https://dbpedia.org/ontology/influenced
+partenaire; wdt:P1327 ; https://dbpedia.org/ontology/partner
+copilote; wdt:P2095 ; https://dbpedia.org/ontology/copilote
+activité; wdt:P106 ; https://dbpedia.org/ontology/activity
+langue d'écriture ; wdt:P6886 ; https://dbpedia.org/ontology/language
+instrument; wdt:P1303 ; https://dbpedia.org/ontology/instrument
+fach ; wdt:P1731 ;
+représenté par ; wdt:P1875 ;
+employeur ; wdt:P108 ;
+intitulé employeur; ;
+label ; wdt:P264 ;
+organisation ; wdt:P1268 ;
+religion; wdt:P140 ; https://dbpedia.org/ontology/religion
+date de baptême ; wdt:P1636 ;
+parrain ; wdt:P1290 ;
+nom en religion ; wdt:P1635 ;
+ordre religieux ; wdt:P611 ;
+consécrateur ; wdt:P1598 ;
+vénéré par; wdt:P1049 ;
+étape de canonisation; wdt:P411 ;
+parti politique ; wdt:P102 ; https://dbpedia.org/ontology/party
+membre de ; wdt:P463 ; https://dbpedia.org/ontology/member
+arme ; wdt:P241 ; https://dbpedia.org/ontology/army
+grade militaire ; wdt:P410 ; https://dbpedia.org/ontology/rank
+conflit ; wdt:P607 ; https://dbpedia.org/ontology/conflict
+famille ; wdt:P53 ; https://dbpedia.org/ontology/family
+père ; wdt:P22 ; https://dbpedia.org/ontology/father
+mère ; wdt:P25 ; https://dbpedia.org/ontology/mother
+fratrie ; wdt:P3373 ;
+conjoint; wdt:P26 ; https://dbpedia.org/ontology/spouse
+enfant ; wdt:P40 ; https://dbpedia.org/ontology/child
+intitulé enfant ; ;
+parentèle ; wdt:P1038 et P:1039 ; https://dbpedia.org/ontology/parent
+œuvres principales; wdt:P800 ; https://dbpedia.org/ontology/created
+intitulé œuvres ; ;
+films notables ; wdt:1283 ; https://dbpedia.org/ontology/movie
+distinction ; wdt:P166 ; https://dbpedia.org/ontology/award
+grade ; wdt:P468 ;
+équipe ; wdt:P54 ; https://dbpedia.org/ontology/team
+sponsor ; wdt:P859 ;
+mécène; ;https://dbpedia.org/ontology/artPatron
+site web; wdt:P856;foaf:homepage
+blog officiel ; wdt:P1581 ; foaf:homepage
+fonction; wdt:P39 ;
+intitulé fonction ; intitulé du champ fonction ; https://dbpedia.org/ontology/personFunction
+titre de noblesse ; wdt:P97 ; https://dbpedia.org/ontology/title
+titre honorifique ; wdt:P511 ; https://dbpedia.org/ontology/decoration
+voix ; wdt:P990 ; https://dbpedia.org/ontology/voice
+prononciation ; wdt:P443 ; https://dbpedia.org/ontology/pronunciation
+blason ; wdt:P94 ; https://dbpedia.org/ontology/blazon
+taille blason ; ;
+légende blason ; ;
+sceau ; wdt:P158 ;
+taille sceau ; ;
+légende sceau ; ;
+signature ; wdt:P109 ;
+plaque ; wdt:P1801 ;
+taille plaque ; ;
+légende plaque ; ;
+tombe ; wdt:P1442 ;
+taille tombe ; ;
+légende tombe ; ;
+archivé par ; wdt:P485 ;
+fête ; wdt:P841 ;
